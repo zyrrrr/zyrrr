@@ -3,7 +3,7 @@ title: "如何做出正确的演讲"
 excerpt_separator: "<!--more-->"
 date: 2019-06-20
 categories:
-  - 演讲
+  - 课堂笔记
 tags:
   - 演讲技巧课堂笔记
 ---
