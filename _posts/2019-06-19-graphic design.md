@@ -1,4 +1,5 @@
 ---
+layout： posts
 title: "平面设计需要点什么？/graphic design"
 excerpt_separator: "<!--more-->"
 date: 2019-06-18
