@@ -1,12 +1,7 @@
 ---
 title: "关于我"
-excerpt_separator: "<!--more-->"
 layout：about
 ---
-
-关于我的那些事
-
-<!--more-->
 
 ## 自我简介
 
