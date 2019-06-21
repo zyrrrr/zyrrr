@@ -3,7 +3,7 @@ title: "网站设计1⃣️/web design"
 excerpt_separator: "<!--more-->"
 date: 2019-06-18
 categories:
-  - 网页设计
+  - 网站设计
 tags:
   - 介绍
 ---
