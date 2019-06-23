@@ -1,5 +1,5 @@
 ---
-title: "信息可视化/课堂笔记"
+title: "用色彩缤纷的图表照亮你的生活吧！"
 excerpt_separator: "<!--more-->"
 date: 2019-06-18
 categories:
