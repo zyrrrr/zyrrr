@@ -1,5 +1,5 @@
 ---
-title: "平面设计需要点什么？/graphic design"
+title: "快来了解看平面设计需要什么类型的人吧！/女人看了流泪，男人看了沉默！！"
 excerpt_separator: "<!--more-->"
 date: 2019-06-18
 categories:
