@@ -1,5 +1,5 @@
 ---
-title: "平面设计的简单阐释/graphic design"
+title: "关于平面设计你知道点什么？"
 excerpt_separator: "<!--more-->"
 date: 2019-06-19
 categories:
