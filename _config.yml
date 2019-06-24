@@ -17,7 +17,7 @@ lang: zh-CN
 title: zyrrrr at Gitee
 email:
 description: “zyrrrr在Gitee的家”
-baseurl: "/jekyll-theme-basically-basic" # the optional subpath of your site, e.g. "/blog"
+baseurl: "zyrrrr~" # the optional subpath of your site, e.g. "/blog"
 url: "https://zyrzgp.gitee.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: "曾烟然"
