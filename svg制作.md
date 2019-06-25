@@ -3,7 +3,7 @@ title: svg制作
 layout: tags
 permalink: /tag/svg制作/
 taxonomy: svg制作
-image: assets/images/svg制作.JPG
+image: assets/images/svg制作banner.jpg
 ---
 
 分类以下svg制作：
