@@ -1,6 +1,7 @@
 ---
 title: 关于我
 layout: about
+image: assets/images/关于我banner.jpg
 ---
 
 
